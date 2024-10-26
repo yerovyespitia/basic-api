@@ -12,6 +12,9 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.9.0",
+    "graphql-http": "^1.22.1",
     "mongodb": "^6.10.0",
     "mongoose": "^8.7.3"
   }
